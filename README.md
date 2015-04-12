@@ -1,11 +1,11 @@
-# Q Liu
+## Q Liu
 quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
  
-### EDUCATION
+## EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.72] | 2011-15</b>  
-view courses taken from [Virginia Tech(39), coursera.org(2), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
+view courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
  
-### EXPERIENCE
+## EXPERIENCE
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Starting Summer 2015</b>  
 <b>Recurse Center/Hackerschool | Starting Summer 2015</b>  
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
@@ -23,7 +23,7 @@ Participated in a variety of research workshops through [Computational Sensing &
 <b>Part time Researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
 Interdisciplinary research with neuroscientist Dr.Cate on models of spatial learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
-### PASSION PROJECTS
+## PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
 - Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/WalnutiQ](https://github.com/WalnutiQ/WalnutiQ)
   - Used Travis continuous integration, Gradle for building on all OS & popular IDEs, & JUnit 
@@ -34,9 +34,9 @@ Interdisciplinary research with neuroscientist Dr.Cate on models of spatial lear
 [350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 500,000+ views, 1.5 million+ minutes watched, [100% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
  
-<b>[Online Gallery](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
+<b>Online gallery [here](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
  
-#### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 - <b>Additional Software Projects/Skills</b> * = code can be provided upon request
   - Git: [github.com/quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
   - Java: common algorithms, data structures, and design patterns*
@@ -54,12 +54,12 @@ Interdisciplinary research with neuroscientist Dr.Cate on models of spatial lear
 - <b>Design Software</b>
   - Eclipse | IntelliJ | Xcode | Emacs | Photoshop CS6 | Zbrush 4R6 | Final Cut Pro
  
-#### ORGANIZATIONS
+## ORGANIZATIONS
 <b>Co-founder and President of Art Club at Virginia Tech | August 2011 – 2013</b>  
 Organized 2 hour weekly meetings where I presented my knowledge of the classical visual arts to 20+ members through 
 workshops. Members with expertise in other fields were also given the opportunity to present.
 
-#### HONORS & AWARDS
+## HONORS & AWARDS
 $2,500 Computer Science CSRC Scholarship for 2014-15  
 York University Computer Vision Research Summer School | June 2013  
 $1,700 Computer Science CGI Scholarship for 2013-14  
