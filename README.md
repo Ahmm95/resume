@@ -23,6 +23,10 @@ Participated in a variety of research workshops through [Computational Sensing &
 <b>Part time Researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
 Interdisciplinary research with neuroscientist Dr.Cate on models of spatial learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
+<b>Dish washer at [West End Market](http://www.dining.vt.edu/centers/westend/west_end.html) | Fall & Spring 2011 </b>
+Spent every waking minute fantasizing about what I wish I was doing. This galvanized a intense drive for hard work and
+focus on things I really care about in family, friendships, and work. 
+
 ## PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
 - Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/WalnutiQ](https://github.com/WalnutiQ/WalnutiQ)
