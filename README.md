@@ -3,11 +3,15 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
  
 ## EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.72] | 2011-15</b>  
-view courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
+View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & lynda.com(7)](./portfolio/courses_taken.md)
  
 ## EXPERIENCE
-<b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Starting Summer 2015</b>  
-<b>Recurse Center/Hackerschool | Starting Summer 2015</b>  
+<b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Present</b>  
+Developing features for new Billing system for all AppNexus' transaction activity using Storm and python
+
+<b>Recurse Center/Hackerschool | Summer 2015</b>  
+Learned a lot of random CS through weekly technical talks and worked on [WalnutiQ](github.com/WalnutiQ) everyday 
+
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 Synchronized data across an internally built web app called Console and Salesforce.com using technologies 
 including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy described in [blog](http://careers.appnexus.com/blog/syncing-two-systems-as-a-business-systems-intern) ready for 
@@ -24,18 +28,18 @@ Participated in a variety of research workshops through [Computational Sensing &
 Interdisciplinary research with neuroscientist Dr.Cate on models of spatial learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
 <b>Dish washer at [West End Market](http://www.dining.vt.edu/centers/westend/west_end.html) | Fall & Spring 2011 </b>  
-Spent every waking minute fantasizing about what I wish I was doing. This galvanized a intense drive for hard work and
+Spent every waking minute fantasizing about what I wish I was doing. This galvanized an intense drive for hard work and
 focus on things I really care about in family, friendships, and work. 
 
 ## PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
-- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/WalnutiQ](https://github.com/WalnutiQ/WalnutiQ)
+- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/walnut](https://github.com/WalnutiQ/walnut)
   - Used Travis continuous integration, Gradle for building on all OS & popular IDEs, & JUnit 
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) with weekly pair programming sessions  
 - Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience)
  
-<b>College Level CS & Math Education at [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 500,000+ views, 1.5 million+ minutes watched, [100% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
+<b>College Level CS, Math Education, and random silly videos at [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
+[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 500,000+ views, 2 million+ minutes watched, [100% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
  
 <b>Online gallery [here](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
@@ -56,7 +60,7 @@ focus on things I really care about in family, friendships, and work.
     + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
 
 - <b>Design Software</b>
-  - Eclipse | IntelliJ | Xcode | Emacs | Photoshop CS6 | Zbrush 4R6 | Final Cut Pro
+  - Eclipse | IntelliJ | Xcode | Emacs | Photoshop CS6 | Zbrush 4R6 | Adobe Premiere Pro
  
 ## ORGANIZATIONS
 <b>Co-founder and President of Art Club at Virginia Tech | August 2011 – 2013</b>  
