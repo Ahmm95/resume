@@ -10,12 +10,11 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
 Developing features for new Billing system for all AppNexus' transaction activity using Storm and python
 
 <b>Recurse Center/Hackerschool | Summer 2015</b>  
-Learned a lot of random CS through weekly technical talks and worked on [WalnutiQ](github.com/WalnutiQ) everyday 
+Learned a lot of random CS through weekly technical talks and worked on [WalnutiQ](https://github.com/WalnutiQ/walnut) everyday 
 
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 Synchronized data across an internally built web app called Console and Salesforce.com using technologies 
-including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy described in [blog](http://careers.appnexus.com/blog/syncing-two-systems-as-a-business-systems-intern) ready for 
-production  
+including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy ready for production  
 
 <b>TA for my favorite CS course at Virginia Tech Software Design & Data Structures | Spring 2014</b>  
 Taught 4 hour labs/week and held office hours on android development and object oriented Java
