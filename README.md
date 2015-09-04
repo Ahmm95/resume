@@ -38,7 +38,7 @@ focus on things I really care about in family, friendships, and work.
 - Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience)
  
 <b>College Level CS, Math Education, and random silly videos at [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 500,000+ views, 2 million+ minutes watched, [50% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
+[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 2.1 million+ minutes watched = teaching for 4 years 24/7, [50% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
  
 <b>Online gallery [here](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
