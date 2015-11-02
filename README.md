@@ -7,21 +7,22 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
  
 ## EXPERIENCE
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Present</b>  
-Developing features for new Billing system for all AppNexus' transaction activity using Storm and python
+- Developing features for new Billing system for all AppNexus' transaction activity using Storm, SQL, and python.
+- Team lead on 1 month project to create new reports. Used RESTful APIs and edited PHP codebase.
 
 <b>Recurse Center/Hackerschool | Summer 2015</b>  
-Learned a lot of random CS through weekly technical talks and worked on [WalnutiQ](https://github.com/WalnutiQ/walnut) everyday 
+Worked on [WalnutiQ](https://github.com/WalnutiQ/walnut) everyday.
 
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 Synchronized data across an internally built web app called Console and Salesforce.com using technologies 
-including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy ready for production  
+including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy ready for production.  
 
 <b>TA for my favorite CS course at Virginia Tech Software Design & Data Structures | Spring 2014</b>  
-Taught 4 hour labs/week and held office hours on android development and object oriented Java
+Taught 4 hour labs/week and held office hours on android development and object oriented Java.
  
 <b>Full time Researcher at Vision Lab at John Hopkins University Clark Hall | Summer 2013</b>  
-Optimized code for random walk image segmentation for iOS app iMixPics. [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) & [Poster](./portfolio/Poster_iMixPics2.jpg) 
-Participated in a variety of research workshops through [Computational Sensing & Robotics REU](http://lcsr.jhu.edu/reu/)
+- Optimized code for random walk image segmentation for iOS app iMixPics. [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) & [Poster](./portfolio/Poster_iMixPics2.jpg) 
+- Participated in a variety of research workshops through [Computational Sensing & Robotics REU](http://lcsr.jhu.edu/reu/).
  
 <b>Part time Researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
 Interdisciplinary research with neuroscientist Dr.Cate on models of spatial learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
@@ -32,13 +33,13 @@ focus on things I really care about in family, friendships, and work.
 
 ## PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
-- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/walnut](https://github.com/WalnutiQ/walnut)
-  - Used Travis continuous integration, Gradle for building on all OS & popular IDEs, & JUnit 
-  - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) with weekly pair programming sessions  
-- Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience)
+- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/walnut](https://github.com/WalnutiQ/walnut).
+  - Used Travis continuous integration, Gradle for building on all OS & popular IDEs, & JUnit. 
+  - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) with weekly pair programming sessions.  
+- Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
  
 <b>College Level CS, Math Education, and random silly videos at [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 2.1 million+ minutes watched = teaching for 4 years 24/7, [50% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
+[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 2.4 million+ minutes watched(4.5 years+), [50% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
  
 <b>Online gallery [here](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
