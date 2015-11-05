@@ -11,7 +11,7 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
 - Team lead on 1 month project to create new reports. Used RESTful APIs and edited PHP codebase.
 
 <b>Recurse Center/Hackerschool | Summer 2015</b>  
-Worked on [WalnutiQ](https://github.com/WalnutiQ/walnut) everyday.
+Worked on [wAlnut](https://github.com/WalnutiQ/wAlnut) everyday.
 
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 Synchronized data across an internally built web app called Console and Salesforce.com using technologies 
@@ -33,13 +33,13 @@ focus on things I really care about in family, friendships, and work.
 
 ## PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
-- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/walnut](https://github.com/WalnutiQ/walnut).
+- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/wAlnut](https://github.com/WalnutiQ/wAlnut).
   - Used Travis continuous integration, Gradle for building on all OS & popular IDEs, & JUnit. 
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) with weekly pair programming sessions.  
 - Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
  
 <b>College Level CS, Math Education, and random silly videos at [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 2.4 million+ minutes watched(4.5 years+), [50% profit from ads are donated](https://www.youtube.com/user/quinnliuvideos/about) to charity
+[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 2.4 million+ minutes watched(4.5 years+), 100% profit from ads are used to pay developers of [wAlnut](https://github.com/WalnutiQ/wAlnut)
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
  
 <b>Online gallery [here](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
