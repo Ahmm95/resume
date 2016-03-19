@@ -8,7 +8,7 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
 ## EXPERIENCE
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Present</b>  
 - Developing features for new Billing system for all AppNexus' transaction activity using Storm, SQL, and python.
-- Team lead on 1 month project to create new reports. Used RESTful APIs and edited PHP codebase.
+- Planned out a 1 month project to create new reports using RESTful APIs and an PHP UI codebase.
 
 <b>Recurse Center/Hackerschool | Summer 2015</b>  
 Worked on [wAlnut](https://github.com/WalnutiQ/wAlnut) everyday.
@@ -38,11 +38,10 @@ focus on things I really care about in family, friendships, and work.
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) with weekly pair programming sessions.  
 - Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
  
-<b>College Level CS, Math Education, and random silly videos at [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 2.4 million+ minutes watched(4.5 years+), 100% profit from ads are used to pay developers of [wAlnut](https://github.com/WalnutiQ/wAlnut)
+<b>College Level CS, Math Education, and personal videos at
+[youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
+[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 3.2 million+ minutes watched(6 years+)
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
- 
-<b>Online gallery [here](http://www.walnutiq.com/#!gallery/mainPage) | 2011</b>
  
 ## TECHNICAL SKILLS
 - <b>Additional Software Projects/Skills</b> * = code can be provided upon request
@@ -58,18 +57,8 @@ focus on things I really care about in family, friendships, and work.
   - Web development
     + Amazon ec2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
     + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
-
-- <b>Design Software</b>
-  - Eclipse | IntelliJ | Xcode | Emacs | Photoshop CS6 | Zbrush 4R6 | Adobe Premiere Pro
  
 ## ORGANIZATIONS
 <b>Co-founder and President of Art Club at Virginia Tech | August 2011 – 2013</b>  
-Organized 2 hour weekly meetings where I presented my knowledge of the classical visual arts to 20+ members through 
-workshops. Members with expertise in other fields were also given the opportunity to present.
-
-## HONORS & AWARDS
-$2,500 Computer Science CSRC Scholarship for 2014-15  
-York University Computer Vision Research Summer School | June 2013  
-$1,700 Computer Science CGI Scholarship for 2013-14  
-$2,000 Computer Science Scholarship for 2012-13  
-$2,500 Research Fellowship (Scieneering Program) for 2012
+Organized weekly meetings where I presented my knowledge of the classical visual arts to 20+ members through 
+2 hour workshops. Members with expertise in other fields were also given the opportunity to present.
