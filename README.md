@@ -9,6 +9,8 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Present</b>  
 - Developing features for new Billing system for all AppNexus' transaction activity using Storm, SQL, and python.
 - Planned out a 1 month project to create new reports using RESTful APIs and an PHP UI codebase.
+- From UI sketches developed 7 screens that use a RESTful API to allow contracts with clients to be created, 
+  edited, cloned, and deleted. Used redux, react.js, and javascript. 
 
 <b>Recurse Center/Hackerschool | Summer 2015</b>  
 Worked on [wAlnut](https://github.com/WalnutiQ/wAlnut) everyday.
