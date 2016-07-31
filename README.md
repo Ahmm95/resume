@@ -13,7 +13,7 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
   edited, cloned, and deleted. Used redux, react.js, and javascript. 
 
 <b>Recurse Center/Hackerschool | Summer 2015</b>  
-Worked on [wAlnut](https://github.com/WalnutiQ/wAlnut) everyday.
+Worked on [wAlnut](https://github.com/WalnutiQ/wAlnut/tree/version-2.3.1) everyday.
 
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 Synchronized data across an internally built web app called Console and Salesforce.com using technologies 
@@ -23,27 +23,28 @@ including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy ready for 
 Taught 4 hour labs/week and held office hours on android development and object oriented Java.
  
 <b>Full time Researcher at Vision Lab at John Hopkins University Clark Hall | Summer 2013</b>  
-- Optimized code for random walk image segmentation for iOS app iMixPics. [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) & [Poster](./portfolio/Poster_iMixPics2.jpg) 
+- Optimized code for random walk image segmentation for iOS app iMixPics.
+  [Paper](./portfolio/random_walker_image_segmentation_on_iOS_devices.pdf) & [Poster](./portfolio/Poster_iMixPics2.jpg) 
 - Participated in a variety of research workshops through [Computational Sensing & Robotics REU](http://lcsr.jhu.edu/reu/).
  
 <b>Part time Researcher at Vision Neuroscience Lab at Virginia Tech Williams Hall | Fall 2012</b>  
-Interdisciplinary research with neuroscientist Dr.Cate on models of spatial learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
-
-<b>Dish washer at [West End Market](http://www.dining.vt.edu/centers/westend/west_end.html) | Fall & Spring 2011 </b>  
-Spent every waking minute fantasizing about what I wish I was doing. This galvanized an intense drive for hard work and
-focus on things I really care about in family, friendships, and work. 
+Interdisciplinary research with neuroscientist Dr.Cate on models of spatial learning in visual pathway of human brain. 
+[Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
 ## PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
-- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at [github.com/WalnutiQ/wAlnut](https://github.com/WalnutiQ/wAlnut).
+- Modeled saccading retina and layer 3, 4, & 5 of human neocortex at 
+  [github.com/WalnutiQ/wAlnut/tree/version-2.3.1](https://github.com/WalnutiQ/wAlnut/tree/version-2.3.1).
   - Used Travis continuous integration, Gradle for building on all OS & popular IDEs, & JUnit. 
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) with weekly pair programming sessions.  
-- Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
+- Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) & Neuron modeling in 
+  [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
  
 <b>College Level CS, Math Education, and personal videos at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-[350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 3.2 million+ minutes watched(6 years+)
-- topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics, statistics, neuroscience theory, computer systems, comparative languages, and more...
+- [350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 3.2 million+ minutes watched(6 years+)
+- topics include data structures, algorithms, Java, C, Linux, MIPS datapath, differential equations, discrete math, combinatorics,
+  statistics, computer systems, comparative languages, and more...
  
 ## TECHNICAL SKILLS
 - <b>Additional Software Projects/Skills</b> * = code can be provided upon request
