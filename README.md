@@ -12,9 +12,6 @@ View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & l
 - From UI sketches developed 7 screens that use a RESTful API to allow contracts with clients to be created, 
   edited, cloned, and deleted. Used redux, react.js, and javascript. 
 
-<b>Recurse Center/Hackerschool | Summer 2015</b>  
-Worked on [wAlnut](https://github.com/WalnutiQ/wAlnut/tree/version-2.3.1) everyday.
-
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 Synchronized data across an internally built web app called Console and Salesforce.com using technologies 
 including RabbitMQ, Storm, PostgreSQL, Gradle, Spock, JIRA and Groovy ready for production.  
