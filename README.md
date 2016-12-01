@@ -50,6 +50,11 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
 - Interdisciplinary research with neuroscientist Dr.Cate on models of spatial 
   learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
+<b>Full time student at Barnstone Art Studios | Summer 2010 & Summer 2011</b>
+- Visual Portfolio [here](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md). 
+  Video Portfolio [here](https://www.youtube.com/watch?v=j2tVuQxIzl4&feature=youtu.be).
+- Learned classical drawing techniques and the fletcher color system.
+
 ## ADDITIONAL PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
 - Modeled saccading retina and layer 3, 4, & 5 of human neocortex in Java at 
