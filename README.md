@@ -14,11 +14,14 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   [server code](https://github.com/Laybium/laybium_server). 
   Download link from Apple App Store: [https://appsto.re/us/zQZYfb.i](https://appsto.re/us/zQZYfb.i)
 - Project 2) Make videos that try to help you immediately and in the future and 
-  is given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos)
-- Project 3) Building an open source Artificial General Intelligence called 
+  are given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos)
+  in the series *Q, watch this when...*
+- Project 3) Building an open source Artificial General Intelligence based
+  on Dileep George's PhD thesis "*How the Brain Might Work: A Hierarchical and 
+  Temporal Model for Learning and Recognition*" in Python called 
   [wAlnut](https://github.com/WalnutiQ/wAlnut)
 
-<b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Present</b>  
+<b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
 - Developing features for new Billing system for all AppNexus' transaction 
   activity using <b>Storm</b>, <b>SQL</b>, and <b>python</b>.
 - Planned out a 1 month project to create new reports using RESTful APIs and an 
@@ -47,7 +50,7 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
 - Interdisciplinary research with neuroscientist Dr.Cate on models of spatial 
   learning in visual pathway of human brain. [Poster](./portfolio/Scieneering_Poster_(5MB).jpg)
 
-## PASSION PROJECTS
+## ADDITIONAL PASSION PROJECTS
 <b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
 - Modeled saccading retina and layer 3, 4, & 5 of human neocortex in Java at 
   [github.com/WalnutiQ/wAlnut/tree/version-2.3.1](https://github.com/WalnutiQ/wAlnut/tree/version-2.3.1).
@@ -58,10 +61,10 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
 - Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) 
   & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
  
-<b>College Level CS, Math Education, and personal videos at
+<b>College Level CS and Math Education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-- [350+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 3.2 
-  million+ minutes watched(6 years+)
+- [400+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 4.5 
+  million+ minutes watched(9 years+)
 - topics include data structures, algorithms, Java, C, Linux, MIPS datapath, 
   differential equations, discrete math, combinatorics, statistics, computer 
   systems, comparative languages, and more...
