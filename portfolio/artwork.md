@@ -41,7 +41,7 @@ they are amazing at what they do.
 
 ## 3 Figures
 
-Photoshop and Conte (2011)
+Pen, Conte, and HB Pencil (2011)
 
 ![alt text](https://raw.githubusercontent.com/quinnliu/resume/master/portfolio/artwork/3_figures.png)
 
@@ -61,13 +61,13 @@ What is creativity? Is everything just a remix of something else or is
 there more to it? Here, a lot of empty alcohol containers would make
 a beautiful roof for a cathedral.
 
-![alt text](https://raw.githubusercontent.com/quinnliu/resume/master/portfolio/artwork/cathedrawl_of_bottles.png)
+![alt text](https://raw.githubusercontent.com/quinnliu/resume/master/portfolio/artwork/cathedral_of_bottles.png)
 
 ## Sitting Figure
 
 Conte (2011)
 
-In 2011 when I saw down for my very first figure drawing class I was
+In 2011 when I sat down for my very first figure drawing class I was
 so nervous I remember my pencil literally slipped from my sweaty 
 hands. I was in a class of 20 people, but the model immediately 
 recognized that I was new. And then the craziest thing happened,
