@@ -26,7 +26,7 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   activity using <b>Storm</b>, <b>SQL</b>, and <b>python</b>.
 - Planned out a 1 month project to create new reports using RESTful APIs and an 
   PHP UI codebase.
-- From UI sketches developed 7 screens that use a <b>RESTful API</b> to allow 
+- From provided UI sketches co-developed 7 screens that use a <b>RESTful API</b> to allow 
   contracts with clients to be created, edited, cloned, and deleted. Used 
   <b>redux</b> and <b>react.js</b>.
 
