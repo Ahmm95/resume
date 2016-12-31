@@ -1,4 +1,4 @@
-## Q Liu
+## q Liu
 quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
  
 ## EDUCATION
@@ -13,13 +13,15 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   [Client code](https://github.com/Laybium/laybium) & 
   [server code](https://github.com/Laybium/laybium_server). 
   Download link from Apple App Store: [https://appsto.re/us/zQZYfb.i](https://appsto.re/us/zQZYfb.i)
-- Project 2) Make videos that try to help you immediately and in the future and 
-  are given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos)
-  in the series *Q, watch this when...*
-- Project 3) Building an open source Artificial General Intelligence based
+- Project 2) Building an open source Artificial General Intelligence based
   on Dileep George's PhD thesis "*How the Brain Might Work: A Hierarchical and 
   Temporal Model for Learning and Recognition*" in Python called 
   [wAlnut](https://github.com/WalnutiQ/wAlnut)
+  - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) 
+    with daily pair programming sessions.
+- Project 3) Make videos that try to help you immediately and in the future and 
+  are given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos)
+  in the series *Q, watch this when...*
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
 - From provided UI sketches co-developed 7 screens that use a <b>RESTful API</b> to allow 
@@ -53,42 +55,34 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
 - Learned classical drawing techniques and the fletcher color system.
 
 ## ADDITIONAL PASSION PROJECTS
-<b>Brain Modeling, Machine Learning, & Computational Neuroscience</b>  
-- Modeled saccading retina and layer 3, 4, & 5 of human neocortex in Java at 
-  [github.com/WalnutiQ/wAlnut/tree/version-2.3.1](https://github.com/WalnutiQ/wAlnut/tree/version-2.3.1).
-  - Used Travis continuous integration, Gradle for building on all OS & popular 
-    IDEs, & JUnit. 
-  - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) 
-    with weekly pair programming sessions.  
-- Neural networks, linear & logistic regression in [Matlab](https://github.com/quinnliu/MachineLearning) 
-  & Neuron modeling in [Matlab](https://github.com/quinnliu/ComputationalNeuroscience).
+<b>Machine Learning & Computational Neuroscience</b>    
+- Neural networks, linear & logistic regression in Matlab at [quinnliu/MachineLearning](https://github.com/quinnliu/MachineLearning) 
+  & Neuron modeling in Matlab at [quinnliu/ComputationalNeuroscience](https://github.com/quinnliu/ComputationalNeuroscience).
  
 <b>College Level CS and Math Education at
 [youtube.com/quinnliuvideos](https://www.youtube.com/user/quinnliuvideos)</b>  
-- [400+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 4.5 
+- [400+ videos](https://www.youtube.com/user/quinnliuvideos/playlists), 7K+ subscribers, 4.5 
   million+ minutes watched(9 years+)
-- topics include data structures, algorithms, Java, C, Linux, MIPS datapath, 
+- Topics include data structures, algorithms, Java, C, Linux, MIPS datapath, 
   differential equations, discrete math, combinatorics, statistics, computer 
   systems, comparative languages, and more...
  
 ## ADDITIONAL TECHNICAL PROJECTS
-- <b>Additional Software Projects/Skills</b> * = code can be provided upon request
-  - Git: [github.com/quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
-  - Java: common algorithms, data structures, and design patterns*
-    + Android apps e.x. maze solver app*, & minesweeper app*
-    + [Earthquake Warning System](https://github.com/quinnliu/EarthquakeWatcherService) 
-      using public earthquake API
-    + [MemoryManager](https://github.com/quinnliu/MemoryManager) & 
-      [BufferPool](https://github.com/quinnliu/BufferPool)
-  - MATLAB: image segmentataion, object recognition, & neuron modeling
-  - C: [MIPS Assembler](https://github.com/quinnliu/mips_assembler), 
-       [extendable shell](https://github.com/quinnliu/extendable_shell), 
-       [thread pool](https://github.com/quinnliu/thread_pool), 
-       [malloc](https://github.com/quinnliu/malloc), web server*
-  - Objective-C: iOS apps e.x. Calculator app, Image Segmentation App*
-  - Web development
-    + Amazon ec2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
-    + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
+- Git cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
+- Java
+  + Android maze solver app & minesweeper app
+  + [Earthquake watcher service](https://github.com/quinnliu/EarthquakeWatcherService) 
+    using public earthquake API
+  + [Memory manager](https://github.com/quinnliu/MemoryManager)
+  + [Buffer pool](https://github.com/quinnliu/BufferPool)
+- C 
+  + [MIPS assembler](https://github.com/quinnliu/mips_assembler)
+  + [Extendable shell](https://github.com/quinnliu/extendable_shell)
+  + [Thread pool](https://github.com/quinnliu/thread_pool)
+  + [Malloc](https://github.com/quinnliu/malloc)
+- Web development
+  + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
+  + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
  
 ## ORGANIZATIONS
 <b>Co-founder and President of Art Club at Virginia Tech | August 2011 – 2013</b>  
