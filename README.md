@@ -22,13 +22,11 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   [wAlnut](https://github.com/WalnutiQ/wAlnut)
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
-- Developing features for new Billing system for all AppNexus' transaction 
-  activity using <b>Storm</b>, <b>SQL</b>, and <b>python</b>.
-- Planned out a 1 month project to create new reports using RESTful APIs and an 
-  PHP UI codebase.
 - From provided UI sketches co-developed 7 screens that use a <b>RESTful API</b> to allow 
   contracts with clients to be created, edited, cloned, and deleted. Used 
   <b>redux</b> and <b>react.js</b>.
+- Planned out a 1 month project to create new reports using RESTful APIs and an 
+  PHP UI codebase.
 
 <b>Business systems intern at AppNexus & [hackNY Fellow](http://hackny.org/a/) | Summer 2014</b>  
 - Synchronized data across an internally built web app called Console and 
@@ -52,7 +50,6 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
 
 <b>Full time student at Barnstone Art Studios | Summer 2010 & Summer 2011</b>
 - Visual Portfolio [here](https://github.com/quinnliu/resume/blob/master/portfolio/artwork.md). 
-  Video Portfolio [here](https://www.youtube.com/watch?v=j2tVuQxIzl4&feature=youtu.be).
 - Learned classical drawing techniques and the fletcher color system.
 
 ## ADDITIONAL PASSION PROJECTS
