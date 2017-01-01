@@ -20,7 +20,7 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) 
     with daily pair programming sessions.
 - Project 3) Make videos that try to help you immediately and in the future and 
-  are given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/quinnliuvideos)
+  are given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/playlist?list=PLPXsMt57rLtjF1SOj7QWc_XevhkSVn_fH)
   in the series *Q, watch this when...*
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
