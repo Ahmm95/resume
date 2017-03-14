@@ -8,8 +8,8 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
  
 ## EXPERIENCE
 <b>Left AppNexus to work on passion projects full time | Sept. 2016 - Present</b>
-- Project 1) Building full stack iOS app using React Native, Redux, Node.js 
-  websocket server to allow anyone to listen to any song at the exact same time. 
+- Project 1) [Video demo](https://www.youtube.com/watch?v=WXTufUtmZYg) of full stack iOS app 
+  using React Native, Redux, Node.js, websocket server to allow anyone to listen to any song at the exact same time. 
   [Client code](https://github.com/Laybium/laybium) & 
   [server code](https://github.com/Laybium/laybium_server). 
   Download link from Apple App Store: [https://appsto.re/us/zQZYfb.i](https://appsto.re/us/zQZYfb.i)
