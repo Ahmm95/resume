@@ -2,7 +2,7 @@
 quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
  
 ## EDUCATION
-<b>Virginia Tech Computer Science Major [GPA: 3.72] | 2011-15</b>  
+<b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
 - View courses taken from [Virginia Tech(43), coursera.org(2), udacity.com(1), & 
   lynda.com(7)](./portfolio/courses_taken.md)
  
@@ -68,18 +68,15 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   systems, comparative languages, and more...
  
 ## ADDITIONAL TECHNICAL PROJECTS
+- * = code can be provided upon e-mail request
 - Git cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
 - Java
   + Android maze solver app & minesweeper app
   + [Earthquake watcher service](https://github.com/quinnliu/EarthquakeWatcherService) 
     using public earthquake API
-  + [Memory manager](https://github.com/quinnliu/MemoryManager)
-  + [Buffer pool](https://github.com/quinnliu/BufferPool)
+  + [Memory manager](https://github.com/quinnliu/MemoryManager) and [Buffer pool](https://github.com/quinnliu/BufferPool)
 - C 
-  + [MIPS assembler](https://github.com/quinnliu/mips_assembler)
-  + [Extendable shell](https://github.com/quinnliu/extendable_shell)
-  + [Thread pool](https://github.com/quinnliu/thread_pool)
-  + [Malloc](https://github.com/quinnliu/malloc)
+  + MIPS assembler*, Extendable shell*, Thread pool*, Malloc*
 - Web development
   + Amazon EC2, HTML, CSS, Javascript, Node.js, & Heroku [product kickstarter](https://github.com/quinnliu/bitstarter)
   + Google App Engine python [examples](https://github.com/quinnliu/GoogleAppEngine)
