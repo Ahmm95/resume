@@ -68,7 +68,7 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   systems, comparative languages, and more...
  
 ## ADDITIONAL TECHNICAL PROJECTS
-- * = code can be provided upon e-mail request
+- `*` = code can be provided upon e-mail request
 - Git cheat sheet at [quinnliu/GitCommands](https://github.com/quinnliu/GitCommands)
 - Java
   + Android maze solver app & minesweeper app
