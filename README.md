@@ -1,4 +1,4 @@
-## q Liu
+## Q Liu
 quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
  
 ## EDUCATION
