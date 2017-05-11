@@ -7,21 +7,21 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu)
   lynda.com(7)](./portfolio/courses_taken.md)
  
 ## EXPERIENCE
-<b>Left AppNexus to work on passion projects full time | Sept. 2016 - Present</b>
-- Project 1) [Video demo](https://www.youtube.com/watch?v=WXTufUtmZYg) of full stack iOS app 
-  using React Native, Redux, Node.js, websocket server to allow anyone to listen to any song at the exact same time. 
-  [Client code](https://github.com/Laybium/laybium) & 
-  [server code](https://github.com/Laybium/laybium_server). 
-  Download link from Apple App Store: [https://appsto.re/us/zQZYfb.i](https://appsto.re/us/zQZYfb.i)
-- Project 2) Building an open source Artificial General Intelligence based
+<b>Left AppNexus to travel Europe with girlfriend and work on passion projects full time | Sept. 2016 - Present</b>
+- Project 1) Building an open source Artificial General Intelligence based
   on Dileep George's PhD thesis "*How the Brain Might Work: A Hierarchical and 
   Temporal Model for Learning and Recognition*" in Python called 
   [wAlnut](https://github.com/WalnutiQ/wAlnut)
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) 
     with daily pair programming sessions.
-- Project 3) Make videos that try to help you immediately and in the future and 
+- Project 2) Make videos that try to help you immediately and in the future and 
   are given at the right time at [youtube.com/quinnliuvideos](https://www.youtube.com/playlist?list=PLPXsMt57rLtjF1SOj7QWc_XevhkSVn_fH)
   in the series *Q, watch this when...*
+- Project 3) [Video demo](https://www.youtube.com/watch?v=WXTufUtmZYg) of full stack iOS app 
+  using React Native, Redux, Node.js, websocket server to allow anyone to listen to any song at the exact same time. 
+  [Client code](https://github.com/Laybium/laybium) & 
+  [server code](https://github.com/Laybium/laybium_server). 
+  Download link from Apple App Store: [https://appsto.re/us/zQZYfb.i](https://appsto.re/us/zQZYfb.i)
 
 <b>Full time Business systems developer at [AppNexus](http://www.appnexus.com/) | Summer 2015 - Sept. 2016</b>  
 - From provided UI sketches co-developed 7 screens that use a <b>RESTful API</b> to allow 
