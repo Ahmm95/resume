@@ -1,5 +1,5 @@
 ## Q Liu
-quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu) | [LinkedIn](https://www.linkedin.com/in/letterq/)
+quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu) | [LinkedIn](https://www.linkedin.com/in/letterq/) | [Twitter](https://twitter.com/qn1over12)
  
 ## EDUCATION
 <b>Virginia Tech Computer Science Major [GPA: 3.59] | 2011-15</b>  
