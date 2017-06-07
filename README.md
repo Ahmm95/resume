@@ -1,5 +1,5 @@
 ## Q Liu
-<b>If your looking for a coding tutor feel free to e-mail me @ quinnliu@vt.edu what you would like to learn</b>
+<b>If your looking for a coding tutor feel free to e-mail me @ quinnliu@vt.edu what you would like to learn :)</b>
 
 quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu) | [LinkedIn](https://www.linkedin.com/in/letterq/) | [Twitter](https://twitter.com/qn1over12) | [Stackoverflow](https://stackoverflow.com/users/1495015/q-liu?tab=profile)
  
@@ -9,11 +9,14 @@ quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu) | [LinkedIn
   lynda.com(7)](./portfolio/courses_taken.md)
  
 ## EXPERIENCE
-<b>Left AppNexus to travel Europe and work on passion projects full time | Sept. 2016 - Present</b>
+<b>Part time coding tutor | Jan. 2017 - Present</b>
+- Currently teaching 3 students 1.5 hours/week. 
+
+<b>Left AppNexus to travel Europe and work on passion projects full time | Sept. 2016 - Jan. 2017</b>
 - Project 1) Building the first open source Artificial General Intelligence based
   on Dileep George's PhD thesis "*How the Brain Might Work: A Hierarchical and 
   Temporal Model for Learning and Recognition*" in Python called 
-  [wAlnut](https://github.com/WalnutiQ/wAlnut)
+  [wAlnut](https://github.com/WalnutiQ/wAlnut).
   - Lead a team of [developers](https://github.com/WalnutiQ/WalnutiQ/graphs/contributors) 
     with daily pair programming sessions.
 - Project 2) Make a unique YouTube video series that try to help you immediately and in the future and 
