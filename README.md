@@ -1,4 +1,6 @@
 ## Q Liu
+<b>If your looking for a coding tutor feel free to e-mail me @ quinnliu@vt.edu what you would like to learn</b>
+
 quinnliu@vt.edu | [github.com/quinnliu](https://github.com/quinnliu) | [LinkedIn](https://www.linkedin.com/in/letterq/) | [Twitter](https://twitter.com/qn1over12) | [Stackoverflow](https://stackoverflow.com/users/1495015/q-liu?tab=profile)
  
 ## EDUCATION
